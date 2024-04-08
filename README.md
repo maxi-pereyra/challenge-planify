@@ -21,8 +21,7 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+Abrir [http://localhost:5173](http://localhost:5173) con tu navegador para ver los resultados.
 
 
 
