@@ -1,7 +1,7 @@
 
 # Challenge planify
 
-Challenge plaify es una aplicacion sencilla que permite ver los distintos servicios y reservar un turno en el servicio seleccionado de manera intuitiva. Esta creado con:
+Challenge planify es una aplicacion sencilla que permite ver los distintos servicios y reservar un turno en el servicio seleccionado de manera intuitiva. Esta creado con:
   - Vite js
   - React js
   - Redux Toolkit
@@ -21,8 +21,7 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+Abrir [http://localhost:5173](http://localhost:5173) con tu navegador para ver los resultados.
 
 
 
