@@ -9,7 +9,7 @@ export interface Reserva {
     serviceId: number,
     name: string,
     time?: string,
-    date?: string
+    date?: string,
 }
 
 export interface Slots {

@@ -24,8 +24,14 @@ export const reservaSlice = createSlice({
         removeReservaTime: (state) => {
             state.date="";
             state.time="";
+        },
+        clearReserva: (state) => {
+            state.serviceId= 0;
+            state.name= "";
+            state.time="";
+            state.date="";
         }
     }
 })
 
-export const {addReservaService , addReservaTime, removeReservaTime} = reservaSlice.actions;
+export const {addReservaService , addReservaTime, removeReservaTime, clearReserva} = reservaSlice.actions;
